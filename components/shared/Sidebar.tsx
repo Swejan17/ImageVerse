@@ -7,7 +7,7 @@ import { usePathname } from 'next/navigation'
 
 import React from 'react'
 import { Button } from '../ui/button'
-import { connectToDatabase } from '@/lib/database/mongoose'
+
 
 const Sidebar = () => {
     const pathname = usePathname()
@@ -67,7 +67,6 @@ const Sidebar = () => {
                     </ul>
                     
                 </SignedIn>
-                <Button onClick={connectToDatabase}>testing</Button>
                 <SignedOut>
                     <Button asChild className='button bg-purple-gradient bg-cover' >
                         <Link href="/sign-in">Login</Link>
