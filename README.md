@@ -1,4 +1,4 @@
-
+# <img src="public/assets/images/logo-text.svg" alt="image" width="240">
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
