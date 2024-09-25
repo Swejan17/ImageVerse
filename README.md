@@ -61,7 +61,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/Swejan17/ImageVerse
+git clone https://github.com/Swejan17/ImageVerse.git
 cd imageverse
 ```
 
